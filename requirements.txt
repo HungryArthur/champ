@@ -9,3 +9,6 @@ psycopg2
 psycopg2-binary
 opencv-python
 contextily
+scikit-learn
+seaborn
+eli5
