@@ -12,3 +12,6 @@ contextily
 scikit-learn
 seaborn
 eli5
+osmnx
+ipywidgets
+folium
