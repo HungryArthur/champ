@@ -1,11 +1,11 @@
-pandas
 numpy
+ninja
+pandas
 requests
 geopandas
 gpxpy
 shapely
 matplotlib
-psycopg2
 psycopg2-binary
 opencv-python
 contextily
@@ -16,4 +16,5 @@ osmnx
 ipywidgets
 folium
 evidently
-airflow
+sqlalchemy
+apache-airflow
